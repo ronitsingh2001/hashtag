@@ -1,21 +1,23 @@
-*, *::after, *::before{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    list-style: none;
-    outline: none;
-    text-decoration: none;
-    color: black;
-    border: none;
-    overflow-x: hidden;
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  outline: none;
+  text-decoration: none;
+  color: black;
+  border: none;
+  overflow-x: hidden;
 }
 
-:root{
-    box-sizing: inherit;
-    font-size: 62.5%;
-    scroll-behavior: smooth;
+:root {
+  box-sizing: inherit;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
 }
 
-body{
-    box-sizing: border-box;
+body {
+  box-sizing: border-box;
 }
